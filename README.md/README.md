@@ -5,7 +5,7 @@ Welcome to my programming portfolio!
 I'm a  Human-Robot Interaction (HRI) student interested in software development, artificial intelligence, database systems, & building practical technology solutions.
 
 
-This repository documents my technical learning journey through 30 practical projects, progressing from programming fundamentals to more advanced software engineering applications,that i transfer from my academic uni githup where i worked for such a challenging problematics that made my portfolio even more stronger .
+This repository documents my technical learning journey through 30 practical projects, progressing from programming fundamentals to more advanced software engineering applications,that i transfer from my academic ex uni githup where i worked for such challenging problematics during this past 2 years , which basically made my portfolio even more stronger .
 
 ## Technical Interests
 
@@ -178,8 +178,7 @@ university-programming-portfolio/
 
 **30 planned projects — 26  completed, 4 remaining.**
 
-This portfolio is a continuous learning project. Each application will be developed, tested, documented and published progressively as I build my programming and software engineering skills.
+This portfolio is a transfer of my  continuous learning projects . Each application will be developed, tested, documented and published progressively as I build my programming and software engineering skills.
 
+** ♡proof that a little pink can coexist with a lot of logic♡.**
 
-
------------------------------------proof that a little pink can coexist with a lot of logic. ♡--------------------- 
