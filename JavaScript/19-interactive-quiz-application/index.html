@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="quiz-container">
+        <h1>Knowledge Quiz</h1>
+        <p class="subtitle">Test your knowledge and see your score.</p>
+
+        <div class="quiz-info">
+            <span id="question-number">Question 1 of 5</span>
+            <span id="score">Score: 0</span>
+        </div>
+
+        <div class="progress">
+            <div id="progress-bar"></div>
+        </div>
+
+        <h2 id="question">Question appears here</h2>
+
+        <div id="answers"></div>
+
+        <p id="feedback"></p>
+
+        <button id="next-button" disabled>Next Question</button>
+        <button id="restart-button" hidden>Try Again</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
