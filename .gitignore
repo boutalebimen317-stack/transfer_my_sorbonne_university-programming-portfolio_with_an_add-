@@ -1,0 +1,19 @@
+# C and C++ compiled files
+*.exe
+*.o
+
+# Java compiled files
+*.class
+
+# C# and .NET build folders
+**/bin/
+**/obj/
+
+# IDE settings
+.vscode/
+**/.vscode/
+
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
